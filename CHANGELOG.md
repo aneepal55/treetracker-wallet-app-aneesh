@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/aneepal55/treetracker-wallet-app-aneesh/compare/v1.1.0...v1.2.0) (2026-01-28)
+
+
+### Bug Fixes
+
+* **native:** add QR code display to missing screens ([#683](https://github.com/aneepal55/treetracker-wallet-app-aneesh/issues/683)) ([4696c80](https://github.com/aneepal55/treetracker-wallet-app-aneesh/commit/4696c80520107b86add3019791db31dbacf496ac))
+
+
+### Features
+
+* **native:** created a Header component for the Wallet Details screen as shown in the Figma design ([64605be](https://github.com/aneepal55/treetracker-wallet-app-aneesh/commit/64605be3b0ebcc23385601ba9b8b29362647903e))
+* **native:** simplify header configuration in WalletDetail and WalletLayout components ([125928f](https://github.com/aneepal55/treetracker-wallet-app-aneesh/commit/125928f7d0e3d56c2e6eca83af07ed298eaa305f))
+* **native:** update WalletDetail header and remove WalletDetailsHeader component ([4bcd379](https://github.com/aneepal55/treetracker-wallet-app-aneesh/commit/4bcd3797c71596f6a23d53a19b10a6dc179e10cf))
+
 # [1.1.0](https://github.com/aneepal55/treetracker-wallet-app-aneesh/compare/v1.0.0...v1.1.0) (2026-01-20)
 
 
